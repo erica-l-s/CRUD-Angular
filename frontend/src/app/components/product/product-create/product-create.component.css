@@ -1,0 +1,11 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+mat-card{
+    padding: 15px;
+}
+
+button{
+    margin-right: 20px;
+}
